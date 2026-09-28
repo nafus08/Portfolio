@@ -2,9 +2,9 @@
 
 A responsive personal portfolio introducing Muntafid Islam Nafsi and highlighting selected web, database, and Android projects.
 
-## Live site
+## Live deployment
 
-[View the deployed portfolio](https://nafus-port-i8qcj9elf-muntafid-islam-nafsi-s-projects.vercel.app)
+[Open the portfolio deployment](https://nafus-port-6pdrohrum-muntafid-islam-nafsi-s-projects.vercel.app). Vercel deployment protection may require sign-in to view it. See the [source code](https://github.com/nafus08/Portfolio).
 
 ## Tech stack
 
